@@ -13,10 +13,11 @@ Obviously, my father was better than me, and one reason I kept playing was to ge
 
 In fourth grade, I discovered that many of my friends also liked chess, so I began playing with them. One of my close friends I would play against was Daniel Joseph, who now, years later, is a founding member of this club! After a year, my interest in chess declined, though I still continued to play on Chess.com. In sixth grade, I joined the chess club at my school, which allowed me to connect with other people, reigniting my love for the game! From the chess club, I learned about the Chessathon, a tournament at the high school for students in grades K-12. I decided to participate, and it was a good thing I did, since I placed 6th!
 
-
 <img src="images/backstory/2024chessathon1.jpg" style="width: 250px; display: block; margin: 0 auto;">
 
 <img src="images/backstory/2024chessathon2.jpg" style="width: 250px; display: block; margin: 0 auto;">
+
+In seventh grade, I participated in the Chessathon again, placing 13th. I played the most I ever had in seventh grade, playing against my friends and my family (finally beating my father), learning more openings (even creating one myself), and memorizing hundreds of patterns and lines.
 
 <img src="images/backstory/2025chessathon2.jpg" style="width: 250px; display: block; margin: 0 auto;">
 
