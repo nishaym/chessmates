@@ -1,6 +1,8 @@
 # chessmates
 Repo to document the journey of the ChessMates club
 
+My chess journey began at about 8 years old, when my sister and I learned to play from my father.
+
 <img src="images/backstory/2024chessathon1.jpg" style="width: 250px; display: block; margin: 0 auto;">
 
 <img src="images/backstory/2024chessathon2.jpg" style="width: 250px; display: block; margin: 0 auto;">
