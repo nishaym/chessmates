@@ -5,7 +5,7 @@ My chess journey began at about 6 years old, when my sister and I learned to pla
 
 <img src="images/backstory/sister.jpg" style="width: 250px; display: block; margin: 0 auto;">
 
-
+Obviously, my father was better than me, and one reason I kept playing was to get good enough to beat him! My sister started to dislike playing, just because of how often I'd want to play. When visiting family, I still tried to play more. 
 
 <img src="images/backstory/cousins1" style="width: 250px; display: block; margin: 0 auto;">
 
