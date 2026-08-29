@@ -17,8 +17,10 @@ In fourth grade, I discovered that many of my friends also liked chess, so I beg
 
 <img src="images/backstory/2024chessathon2.jpg" style="width: 250px; display: block; margin: 0 auto;">
 
-In seventh grade, I participated in the Chessathon again, placing 13th. I played the most I ever had in seventh grade, playing against my friends and my family (finally beating my father), learning more openings (even creating one myself), and memorizing hundreds of patterns and lines.
+In seventh grade, I participated in the Chessathon again, placing 13th. I played the most I ever had in seventh grade, playing against my friends and my family (finally beating my father), learning more openings (even creating one myself), and memorizing hundreds of patterns and lines. I also started teaching some of my friends chess, eventually discovering that I enjoyed getting people to learn about the things I like.
 
 <img src="images/backstory/2025chessathon2.jpg" style="width: 250px; display: block; margin: 0 auto;">
+
+
 
 <img src="images/backstory/chessmates.png" style="width: 250px; display: block; margin: 0 auto;">
