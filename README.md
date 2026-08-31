@@ -21,6 +21,6 @@ In seventh grade, I participated in the Chessathon again, placing 13th. I played
 
 <img src="images/backstory/2025chessathon2.jpg" style="width: 250px; display: block; margin: 0 auto;">
 
-
+Finally, in the summer of ninth grade, I decided to create ChessMates. I created a poster advertising the club, contacted some of my friends, and set up a group chat, and in only a day, I already had members!
 
 <img src="images/backstory/chessmates.png" style="width: 250px; display: block; margin: 0 auto;">
